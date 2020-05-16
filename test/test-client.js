@@ -37,7 +37,7 @@ describe('Client', function () {
       const options = {
         document_html: `<html>This is a test from Javascript at ${now}</html>`,
       }
-      let buffer = await client.pdf.create(options)
+      const buffer = await client.pdf.create(options)
       should.exist(buffer)
       fs.writeFileSync('/tmp/test-js.pdf', buffer)
     } catch (err) {
