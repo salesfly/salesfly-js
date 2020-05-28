@@ -1,14 +1,14 @@
 # salesfly-js
 
-[![Build Status](https://travis-ci.org/salesfly/salesfly-js.svg?branch=master)](https://travis-ci.org/salesfly/salesfly-js)
+<!-- [![Build Status](https://travis-ci.org/salesfly/salesfly-js.svg?branch=master)](https://travis-ci.org/salesfly/salesfly-js) -->
 
 <!-- [![codecov](https://codecov.io/gh/salesfly/salesfly-js/branch/master/graph/badge.svg)](https://codecov.io/gh/salesfly/salesfly-js) -->
 
-Javascript client for [Salesfly API](https://salesfly.com)&reg;
+Javascript client for [Salesfly API](https://salesfly.com)&reg;. This client works with [Salesfly e-commerce](https://salesfly.com) and [SalesflyPDF](https://salesflypdf.com).
 
 ## Documentation
 
-See the [Javascript API docs](https://docs.salesfly.com/js/).
+See the [Javascript API docs](https://developers.salesfly.com/js/).
 
 ## Installation
 
